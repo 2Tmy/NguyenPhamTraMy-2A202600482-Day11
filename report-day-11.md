@@ -1,5 +1,7 @@
 Part B: Individual Report (40 points)
+
 Nguyễn Phạm Trà My - 2A2026482
+
 Submit a **1-2 page** report (PDF or Markdown) answering these questions:
 
 | # | Question | Points |
