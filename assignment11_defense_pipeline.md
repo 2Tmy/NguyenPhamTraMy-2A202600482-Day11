@@ -3,6 +3,7 @@
 **Course:** AICB-P1 — AI Agent Development  
 **Due:** End of Week 11  
 **Submission:** `.ipynb` notebook + individual report (PDF or Markdown)
+Họ và tên: Nguyễn Phạm Trà My - 2A2026482
 
 ---
 
